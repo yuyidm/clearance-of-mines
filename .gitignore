@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略 PyCharm 项目结构文件
+.idea/
+
+# 忽略生成的配置文件
+conf/
